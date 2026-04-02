@@ -1,0 +1,30 @@
+# ═══════════════════════════════════════════════════════════════
+#  Stickman Runner — Git Attributes
+# ═══════════════════════════════════════════════════════════════
+
+# Auto-detect text files and normalise line endings
+* text=auto
+
+# Source code
+*.py text diff=python linguist-language=Python
+*.md text diff=markdown
+
+# Config / Data
+*.txt text
+*.json text
+*.yml text
+*.yaml text
+*.toml text
+*.cfg text
+*.ini text
+
+# Images (binary)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+
+# Documentation
+LICENSE text

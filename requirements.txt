@@ -1,0 +1,13 @@
+# ═══════════════════════════════════════════════════════════════
+#  Stickman Runner — Python Dependencies
+#  Author: Utkarsh Mani Tripathi
+# ═══════════════════════════════════════════════════════════════
+
+# Core game engine
+pygame>=2.0.0
+
+# ─── That's it! ─────────────────────────────────────────────
+# Stickman Runner is designed to be lightweight.
+# All sprites are procedurally generated — no external assets.
+# All sounds are synthesized at runtime — no audio files.
+# Only Python 3.8+ and Pygame are needed.
